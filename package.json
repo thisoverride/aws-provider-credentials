@@ -1,0 +1,13 @@
+{
+  "name": "quick_credentials",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "console-read-write": "^0.1.1",
+    "install": "^0.13.0",
+    "puppeteer": "^17.1.3"
+  }
+}
